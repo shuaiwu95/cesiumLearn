@@ -12,4 +12,4 @@
 - 把package中的script挨个运行一遍，保证启动cesium源码环境后你能看到完整的效果
 
 ### 下面是我从网上找到的cesium代码结构图
-![](./resource/image/cesium.jpg)
+![image](https://github.com/shuaiwu95/cesiumLearn/blob/master/resource/image/cesium.jpg)
